@@ -4,9 +4,11 @@ public class Add {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-   int a=10, b=20;
-    int c=a+b;
-    System.out.println("The value of c is:"+c);
+   int num1=10, num2=20;
+    int sum=num1+num2;
+		
+    System.out.println("The value of c is:"+sum);
+		
 	}
 
 }
